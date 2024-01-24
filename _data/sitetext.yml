@@ -11,9 +11,9 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    title: Welcome!
+    text: We are UNC's Competitive Programming Club.
+    button: Join Us
     buttonlink: "#services"
 
   services:
