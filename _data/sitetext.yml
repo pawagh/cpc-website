@@ -21,7 +21,7 @@ en: &DEFAULT_EN
     text: "Lorem ipsum"
     section: services
     list:
-      - title: "[Discord](https://discord.gg/7qZ3eKc6QE)"
+      - title: "[Discord](https://discord.com/invite/qZ4a96hxzK)"
         desc: "most communication for meetings and events happen **here** on discord"
         icon: fab fa-discord #find more at https://fontawesome.com/icons
       - title: "Slack"
