@@ -27,9 +27,6 @@ en: &DEFAULT_EN
       - title: "[Discord](https://discord.gg/7qZ3eKc6QE)"
         desc: "most communication for meetings and events happen **here** on discord"
         icon: fab fa-discord #find more at https://fontawesome.com/icons
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
 
   portfolio:
     title: "Portfolio"
