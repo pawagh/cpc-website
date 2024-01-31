@@ -24,9 +24,6 @@ en: &DEFAULT_EN
       - title: "[Discord](https://discord.com/invite/qZ4a96hxzK)"
         desc: "most communication for meetings and events happen **here** on discord"
         icon: fab fa-discord #find more at https://fontawesome.com/icons
-      - title: "Slack"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fab fa-slack
 
   portfolio:
     title: "Portfolio"
