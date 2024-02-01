@@ -16,7 +16,7 @@ en: &DEFAULT_EN
     button: Join Us
     buttonlink: "#join-us"
 
-  services:
+  join-us:
     title: "Join Us"
     text: ""
     section: join-us
