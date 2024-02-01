@@ -19,7 +19,7 @@ en: &DEFAULT_EN
   services:
     title: "Join Us"
     text: ""
-    section: services
+    section: join-us
     list:
       - title: "[Discord](https://discord.com/invite/qZ4a96hxzK)"
         desc: "most communication for meetings and events happen **here** on discord"
