@@ -14,7 +14,7 @@ en: &DEFAULT_EN
     title: Welcome!
     text: We are UNC's Competitive Programming Club.
     button: Join Us
-    buttonlink: "#services"
+    buttonlink: "#join-us"
 
   services:
     title: "Join Us"
