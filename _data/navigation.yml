@@ -13,10 +13,10 @@ en: &DEFAULT_EN
   nav:
     - title: "Join Us"
       section: join-us
-    - title: "Portfolio"
-      section: portfolio
     - title: "About"
       section: about
+    - title: "Portfolio"
+      section: portfolio
     - title: "Timeline"
       section: timeline
     - title: "Team"
