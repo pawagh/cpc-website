@@ -17,7 +17,7 @@ en: &DEFAULT_EN
       section: icpc
     - title: "Portfolio"
       section: portfolio
-    - title: "Timeline"
+    - title: "Resources"
       section: timeline
     - title: "Team"
       section: team
