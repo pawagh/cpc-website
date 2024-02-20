@@ -41,22 +41,22 @@ en: &DEFAULT_EN
       - title: "Learn a Programming Language"
         year: ""
         desc: "Choose a programming language you are comfortable with or interested in, and understand the basics of syntax, data types, control structures, and functions."
-        image: assets/img/timeline/1.jpg
+        image: assets/img/timeline/languages.png
         alt:
       - title: "Understand Data Structures and Algorithms"
         year: ""
         desc: "Focus on fundamental data structures (arrays, linked lists, stacks, queues) and algorithms (sorting, searching) and learn about time and space complexity analysis. You can also dive into more complex data structures(trees, graphs, hash tables) and algorithms (dynamic programming, greedy algorithms). Get a handle on their applications and when to use them."
-        image: assets/img/timeline/2.jpg
+        image: assets/img/timeline/datastructures.png
         alt:
       - title: "Practice, Practice, Practice"
         year: ""
         desc: "Solve problems on online coding platforms such as Codeforces, HackerRank, or LeetCode. Start with easy problems and gradually move to medium and hard difficulty levels."
-        image: assets/img/timeline/3.jpg
+        image: assets/img/timeline/practice.png
         alt:
       - title: "Participate in Contests"
         year: ""
         desc: "Join online coding contests on platforms like Codeforces, AtCoder, or HackerRank. Set aside specific times for practice contests to simulate real competition conditions. Also, our very own Competitive Programming Club hosts the ICPC here on campus!"
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/contests.jpg
         alt:
         # you can enforce the alignment
         align: right
