@@ -40,9 +40,9 @@ en: &DEFAULT_EN
     events:
       - title: "Learn a Programming Language"
         year: ""
-        desc: |
-          -Choose a programming language you are comfortable with or interested in.
-          -Understand the basics of syntax, data types, control structures, and functions.
+        desc:
+          - Choose a programming language you are comfortable with or interested in.
+          - Understand the basics of syntax, data types, control structures, and functions.
         image: assets/img/timeline/1.jpg
         alt:
       - title: "Understand Data Structures and Algorithms"
