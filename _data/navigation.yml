@@ -15,7 +15,7 @@ en: &DEFAULT_EN
       section: join-us
     - title: "ICPC"
       section: icpc
-    - title: "Portfolio"
+    - title: "Start Here"
       section: portfolio
     - title: "Resources"
       section: timeline
