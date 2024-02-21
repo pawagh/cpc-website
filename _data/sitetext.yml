@@ -123,19 +123,19 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
 
   contact:
-    title: ""
-    text: ""
+    title: "Contact Us"
+    text: "Members and Sponsors can reach out to us here!"
     section: contact
-    name: ""
-    name-validation: ""
-    email: ""
-    email-validation: ""
-    phone: ""
-    phone-validation: ""
-    message: ""
-    message-validation: ""
-    subject: ""
-    submit: ""
+    name: "Name*"
+    name-validation: "Please enter your name."
+    email: "Email*"
+    email-validation: "Please enter your email address."
+    phone: "Phone Number"
+    phone-validation: "Please enter your phone number."
+    message: "Message*"
+    message-validation: "Please enter a message."
+    subject: "Contact Form Submission"
+    submit: "Send Message"
 
   footer:
     legal: "Privacy Policy"
@@ -146,7 +146,7 @@ en: &DEFAULT_EN
         icon: "fab fa-facebook-f"
       - url: https://linkedin.com
         icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
+      - url: https://github.com/cpc-unc
         icon: "fab fa-github"
       - url: https://instagram.com
         icon: "fab fa-instagram"
