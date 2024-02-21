@@ -1,18 +1,19 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
+title: Problem Solving
+subtitle: How you can practice what you learn
+image: assets/img/portfolio/competitive_programming.png
+alt: 
 
 caption:
-  title: Threads
-  subtitle: Illustration
-  thumbnail: assets/img/portfolio/01-thumbnail.jpg
+  title: Problem Solving
+  subtitle: Doing Competitive Programming
+  thumbnail: assets/img/portfolio/competitive_programming.png
+  
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+Do level up your problem solving skills, the best method is to practice! Some popular sites for this are [Leetcode] (https://leetcode.com/), [Codeforces] (https://codeforces.com/), [Kattis] (https://open.kattis.com/). The general strategy is to start with the easiest problems you can solve, and then work your way up to more challenging problems.
 
 {:.list-inline}
-- Date: January 2017
+<!-- - Date: January 2017
 - Client: Threads
-- Category: Illustration
+- Category: Illustration -->
 
