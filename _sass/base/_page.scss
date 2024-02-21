@@ -6,17 +6,18 @@ body {
 
 p {
   line-height: 1.75;
+  color: white !important;
 }
 
 a {
-  color: $primary;
+  color: white !important;
   &:hover {
     color: darken($primary, 10%);
   }
 }
 
 .text-primary {
-  color: $primary !important;
+  color: white !important;
 }
 
 h1,
