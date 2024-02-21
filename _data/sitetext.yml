@@ -56,7 +56,7 @@ en: &DEFAULT_EN
         align: right
     end: "And Join the Club!"
 
-   portfolio:
+  portfolio:
     title: "Start Learning Here"
     text: "Here are some places you can begin your competitive programming journey"
     section: portfolio
