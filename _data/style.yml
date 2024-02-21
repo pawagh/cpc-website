@@ -5,4 +5,4 @@ black: "#1E1F22"
 
 #Image Customization
 header-image: "../img/cpc_logo.jpg"
-#contact-image: "../img/map-image.png"
+contact-image: "../img/map-image.png"
