@@ -4,11 +4,11 @@ header.masthead {
   color: $white;
   background-color: $black;
   height: 100vh;
-  //background-image: url("#{$header-image}");
-  //background-repeat: no-repeat;
-  //background-attachment: scroll;
-  //background-position: center center;
-  //background-size: cover;
+  background-image: url("#{$header-image}");
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  background-size: cover;
   .intro-text {
     padding-top: 150px;
     padding-bottom: 100px;
