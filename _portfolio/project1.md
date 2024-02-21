@@ -6,7 +6,7 @@ alt:
 
 caption:
   title: Problem Solving
-  subtitle: Doing Competitive Programming
+  subtitle: Problem Solving
   thumbnail: assets/img/portfolio/competitive_programming.png
   
 ---
